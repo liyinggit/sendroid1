@@ -36,7 +36,7 @@ ul, li{
 	list-style:none;
 	padding:0;
 	margin:0;
-	
+
 }
 a,button{
 	-webkit-transition:all 0.3s ease;
@@ -240,7 +240,7 @@ a:hover{
 	background:#FF9800;
 }
 .color-plate span.color5{
-	background:#FF6853;
+	background: #88cbf9;
 }
 .color-plate span.color6{
 	background:#82B440;
@@ -267,7 +267,7 @@ a:hover{
 }
 .header .header-inner.sticky{
 	z-index:99999;
-	
+
 }
 .header .navbar-collapse{
 	padding:0;
@@ -280,7 +280,7 @@ a:hover{
 	-webkit-box-shadow:0px 0px 5px #000;
 	-moz-box-shadow:0px 0px 5px #000;
 	box-shadow:0px 0px 5px #000;
-	
+
 }
 .header .logo {
 	float: left;
@@ -463,7 +463,7 @@ a:hover{
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
-	
+
 }
 #slider .button:hover .btn::after{
 	height: 100%;
@@ -525,7 +525,7 @@ a:hover{
 	features CSS
 ===========================*/
 #features{
-	
+
 }
 #features .feature-left{}
 #features .feature-left img {
@@ -534,7 +534,7 @@ a:hover{
 	margin-top: 30px;
 }
 #features .feature-right{
-	
+
 }
 #features .single-right{
 	position:relative;
@@ -579,7 +579,7 @@ a:hover{
 ===========================*/
 #Services{
 	background:#fff;
-}	
+}
 #Services .single-service {
 	padding: 20px;
 	background: #F6F6F6;
@@ -639,7 +639,7 @@ a:hover{
 	Latest Works CSS
 =====================*/
 .latest-works{
-	
+
 }
 .latest-works .works-menu{
 	text-align:center;
@@ -707,7 +707,7 @@ a:hover{
 	left:0;
 	width:100%;
 	height:100%;
-	padding:30px;	
+	padding:30px;
 	opacity:0;
 	visibility:hidden;
 	-webkit-transition:all 0.4s ease;
@@ -789,7 +789,7 @@ a:hover{
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
-	
+
 }
 .latest-works .button:hover .btn::after{
 	height: 100%;
@@ -850,7 +850,7 @@ a:hover{
 	transition: all 0.4s ease;
 	height: 400px;
 	width: 500px;
-	
+
 }
 #single-pf .single-news img:hover{
 	transform:scale(1.1);
@@ -903,7 +903,7 @@ a:hover{
 }
 #single-pf .single-news .news-body p{
 	color:#999;
-	margin-bottom:25px;
+	margin-bottom:15px;
 }
 #single-pf .single-news .news-body .btn {
 	padding: 0;
@@ -919,7 +919,7 @@ a:hover{
 	font-size:16px;
 }
 
-	
+
 #single-pf .owl-nav{
 	margin: 0;
     position: absolute;
@@ -948,7 +948,7 @@ a:hover{
 #single-pf .owl-nav .owl-prev {
 	left:0;
 }
-#single-pf .owl-nav .owl-next{                                  
+#single-pf .owl-nav .owl-next{
 	right:0;
 }
 
@@ -1007,7 +1007,7 @@ a:hover{
 	text-transform:capitalize;
 	position:relative;
 	font-weight:300;
-	
+
 }
 #testimonials .single-testimonial p i {
 	margin-right: 10px;
@@ -1091,7 +1091,7 @@ a:hover{
 }
 #blog .single-news .news-body .title span{
 	display:inline-block;
-	
+
 }
 #blog .single-news .news-body .title .user{
 	font-size:14px;
@@ -1121,7 +1121,7 @@ a:hover{
 	margin-left: 40px;
 	margin-top: -20px;
 	text-transform:capitalize;
-	
+
 }
 #blog .single-news .news-body h2 a{
 	text-decoration:none;
@@ -1202,7 +1202,7 @@ a:hover{
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
-	
+
 }
 #blog .button:hover .btn::after{
 	height: 100%;
@@ -1250,7 +1250,7 @@ a:hover{
 #blog-single .single-news{
 	background:#faf9f9;
 	border:1px solid #eeeeee;
-	
+
 	margin-bottom: 40px;
 }
 #blog-single .single-news img{
@@ -1287,7 +1287,7 @@ a:hover{
 }
 #blog-single .single-news .news-body .title span{
 	display:inline-block;
-	
+
 }
 #blog-single .single-news .news-body .title .user{
 	font-size:14px;
@@ -1317,7 +1317,7 @@ a:hover{
 	margin-left: 40px;
 	margin-top: -20px;
 	text-transform:capitalize;
-	
+
 }
 #blog-single .single-news .news-body h2 a{
 	text-decoration:none;
@@ -1352,6 +1352,14 @@ a:hover{
 	text-transform: capitalize;
 	color: #666;
 }
+
+#blog-single .single-news .news-body .h4 {
+	margin-top: 15px;
+	font-size: 15px;
+	text-transform: capitalize;
+	color: #606366;
+}
+
 #blog-single .single-news .news-body .tags li{
 	display:inline-block;
 	margin-left:5px;
@@ -1378,8 +1386,8 @@ a:hover{
 #blog-single .pagination ul li{
 	display:inline-block;
 	border-right:1px solid #666;
-	
-	
+
+
 }
 
 #blog-single .pagination ul li:last-child{
@@ -1391,7 +1399,7 @@ a:hover{
 	display:block;
 	padding: 10px 20px;
 	font-weight:600;
-	
+
 }
 #blog-single .pagination ul li i{
 	margin:0px 5px;
@@ -1416,7 +1424,7 @@ a:hover{
 	width:100%;
 	background:#000;
 	opacity:0.9;
-	
+
 }
 /* single-fun */
 .fun-facts .single-fun{
@@ -1432,14 +1440,14 @@ a:hover{
 	display: block;
 	margin-bottom: 14px;
 	line-height: 80px;
-	
+
 }
 
 .fun-facts .single-fun span{
 	color:#fff;
 	font-weight:600;
 	font-size:30px;
-	
+
 }
 .fun-facts .single-fun p{
 	color:#fff;
@@ -1569,31 +1577,31 @@ a:hover{
 	overflow:hidden;
 	transition:all 0.4s ease;
 	margin-top:85px;
-	
+
 }
 .p-table4 .table-head{}
 .p-table4 .table-head .title-head{
-	
-	
-	
+
+
+
 }
 .p-table4 .table-head h2.medium{
-	
+
 	color:#000428;
 }
 .p-table4 .table-head h2 {
 	background-color:#000428;
-	
+
 	color:#fff;
 	padding: 40px 0px;
 	text-transform:uppercase;
-	
+
 }
 .p-table4 .table-head .price {
 	background-color: #000428;
 	top: 52px;
 	padding-bottom:135px;
-	
+
 }
 .p-table4 .table-head .amount {
 	color: #fff;
@@ -1620,7 +1628,7 @@ a:hover{
 	font-weight:300;
 }
 .p-table4 .single-table .table-list {
-	
+
 }
 
 .p-table4 .single-table .table-list{}
@@ -1678,7 +1686,7 @@ a:hover{
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
-	
+
 }
 
 .p-table4 .button span::before {
@@ -1750,7 +1758,7 @@ a:hover{
 }
 
 .error .error-left .button-head{
-	
+
 }
 
 .error .error-left .button{
@@ -1788,7 +1796,7 @@ a:hover{
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
-	
+
 }
 .error .error-left .button:hover .btn::after{
 	height: 100%;
@@ -1893,7 +1901,7 @@ a:hover{
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
-	
+
 }
 .mail-success .mail-head .button:hover .btn::after{
 	height: 100%;
@@ -2035,7 +2043,7 @@ a:hover{
 #contact .contact-left h3{
 	color:#333;
 	border-bottom:1px solid;
-	
+
 }
 
 #contact .contact-left p{
@@ -2110,7 +2118,7 @@ a:hover{
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 	margin-top: 10px;;
-	
+
 }
 .contact .form .btn:hover{
 	box-shadow: 2px 8px 8px #0000004d;
@@ -2141,7 +2149,7 @@ a:hover{
 }
 
 .clients .single-clients img{
-	
+
 }
 /*===================
 	End Clients CSS
@@ -2158,7 +2166,7 @@ a:hover{
 }
 .footer .footer-top{
 	padding:50px 0px;
-	
+
 }
 .footer .logo{
 	margin-bottom:23px;
@@ -2281,7 +2289,7 @@ a:hover{
 .footer .copyright{
 	text-align:center;
 	padding:20px 0;
-	
+
 }
 .footer .copyright .copyright-content{
 	float:left;
@@ -2294,7 +2302,7 @@ a:hover{
 .footer .copyright .social{
 	float:right;
 	margin-right:15px;
-	
+
 }
 .footer .copyright .social{}
 .footer .copyright .social li{
@@ -2307,7 +2315,7 @@ a:hover{
 	height:25px;
 	line-height:25px;
 	display:block;
-	
+
 }
 .footer .copyright .social li a:hover{
 	color:#fff;
@@ -2315,7 +2323,7 @@ a:hover{
 }
 .footer .copyright .social ul li a i{
 	font-size:15px;
-	
+
 }
 /*===================
 	End Footer CSS
