@@ -742,7 +742,7 @@ a:hover{
 	z-index:999;
 }
 .latest-works .single-work:hover .works-hover{
-	top:50px;
+	top:115px;
 }
 .latest-works .single-work:hover .works-hover{
 	opacity:1;
@@ -750,8 +750,8 @@ a:hover{
 }
 .latest-works .single-work .works-hover h4 {
 	color: #fff;
-	font-size: 18px;
-	margin-bottom: 20px;
+	font-size: 35px;
+	/*margin-bottom: 20px;*/
 }
 
 .latest-works .single-work .works-hover a{
