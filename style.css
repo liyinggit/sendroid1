@@ -1113,7 +1113,7 @@ a:hover{
 	margin: 0;
 }
 #blog .single-news .news-body .title {
-	margin-left: 40px;
+	margin-left: 6px;
 	margin-top: -13px;
 }
 #blog .single-news .news-body .title span{
@@ -1122,7 +1122,7 @@ a:hover{
 }
 #blog .single-news .news-body .title .user{
 	font-size:14px;
-	text-transform:capitalize;
+
 }
 #blog .single-news .news-body .title .user i{
 	font-size:14px;
@@ -1131,7 +1131,7 @@ a:hover{
 #blog .single-news .news-body .title .comment{
 	font-size:14px;
 	margin-left:10px;
-	text-transform:capitalize;
+
 }
 #blog .single-news .news-body .title .comment i{
 	margin-right:5px;
